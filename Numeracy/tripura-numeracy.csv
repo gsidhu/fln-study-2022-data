@@ -1,0 +1,89 @@
+Descriptor,State Average Performance (%),National Average Performance (%)
+Reads numbers up to 9999,72,64
+Reads numbers up to 999,20,24
+Reads numbers up to 99,7,11
+Does not respond,1,2
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Discriminates numbers up to 9999,73,67
+Discriminates numbers up to 999,20,23
+Discriminates numbers up to 99,6,8
+Discriminates numbers only up to 9,1,2
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Adds numbers upto 999,58,53
+Adds numbers upto 99,79,71
+Adds numbers upto 9,94,92
+Subtracts numbers upto 999,45,40
+Subtracts  numbers upto 99,68,62
+Subtracts  numbers upto 9,88,81
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Identifies the application of operation of addition in real life situations and provides the correct answer for questions based on addition only,60,54
+Identifies the application of operation of subtraction in real life situations and provides the correct answer for questions based on subtraction only,47,42
+Identifies the application of number operations in real life situations and provides the correct answers for 80% and above questions,58,52
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Understands and applies correct multiplication facts in 80%  and above questions,80,71
+Understands and applies correct multiplication facts in 50% and less than 80% questions,14,16
+Understands and applies correct multiplication facts in less than 50% questions,4,6
+Does not respond,2,8
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Understands and applies correct Division facts in 80%  and above questions,48,49
+Understands and applies correct Division facts in 50% and less than 80% questions,32,31
+Understands and applies correct Division facts in less than 50% questions,6,6
+Does not respond,14,14
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+"Identifies the Month, Date and Day on the Calender",60,62
+"Identifies the month, date and day with help",19,20
+"Make mistakes in identifying the Month, date and day",8,6
+Dose not respond,13,12
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Can compare and estimate the volume of different containers,48,46
+Can either compare or estimate the volume of different containers,44,47
+Attempts but makes mistakes in estimating and comparing the volume,3,3
+Dose not respond,5,4
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Tells the time correctly,58,52
+Tells the time correctly with the help of hint,34,36
+Dose not respond,8,12
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Applies the understanding of measurement of length and calculates the length of  the object,64,62
+Applies the understanding of measurement of length but miscalculates the length of the object when the object is not aligned with the 0 of the scale,23,27
+Makes effort but not able to calculate the length of the object,10,6
+Dose not respond,3,4
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+correctly identifies one-half,80,70
+correctly identifies one-fourth,66,47
+correctly identifies three-fourth,77,61
+"correctly identifies all the fractions (one-half, one-fourth, three-fourth)",61,42
+correctly represents one-half,70,68
+correctly represents one-fourth,64,55
+correctly represents three-fourth,54,46
+"correctly represents  all the fractions (one-half, one-fourth, three-fourth)",48,40
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Correctly identifies and completes patterns with shapes and  numbers in 80% and above questions,71,61
+Correctly identifies and completes patterns with shapes and  numbers in 50% to less than 80% questions,23,28
+Correctly identifies and completes patterns with shapes and  numbers in less than 50% questions,4,8
+Dose not respond,1,2
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Answers 80% and above questions correctly,72,70
+Answers 50% - less than 80% questions correctly,23,23
+Answers less than 50% questions correctly,4,5
+Answers less than 50% questions correctly,2,2
+
+Benchmark,,0 - 42,43 - 69,70 - 83,84 and above
+Percentage of Students meeting the standard,State/UT,7,31,50,12.0
+,National,11,37,42,10.0
+Percentage of Girls meeting the standard,State/UT,7,32,48,13.0
+,National,11,38,41,10.0
+Percentage of Boys meeting the standard,State/UT,7,30,52,11.0
+,National,11,36,43,10,

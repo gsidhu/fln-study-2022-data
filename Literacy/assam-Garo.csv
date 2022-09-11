@@ -1,0 +1,36 @@
+Descriptor,State Average Performance (%),National Average Performance (%)
+Listens and Comprehends four to five texts of varying lengths correctly,91,85
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Correctly identifies at least one initial sound in grade level words,97,95
+Correctly identifies at least one final sound in grade level words,95,89
+Not able to identify the initial sound and final sound in any of the given grade level words,2,3
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Reads 80-100 letters correctly and fluently,88,91
+Reads 50-79 letters correctly/reads some letters with self correction,7,5
+Reads 10-49 letters correctly/hesitantly  with self correction,3,2
+Reads less than 10 letters correctly/hesitantly  with self correction,1,2
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Reads 80% and more words  correctly and fluently,71,54
+Reads 50% to Less than 80% words correctly (with self correction wherever needed),15,19
+Reads 10% to less than 50% words correctly (with self correction wherever needed),4,19
+Reads less than 10% words correctly (with self correction wherever needed),11,8
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Reads 80% and more words  correctly and fluently,65,36
+Reads 50%  to Less than 80% words correctly (with self correction wherever needed),15,25
+Reads 10% to less than 50% words correctly (with self correction wherever needed),9,20
+Reads less than 10% words correctly (with self correction wherever needed),11,19
+
+Descriptor,State Average Performance (%),National Average Performance (%)
+Reads and Comprehends four to five texts of varying lengths correctly,93,86
+
+Benchmark,,0 - 10,11 - 24,25 - 39,40 and above
+Aggregate Performance (%),State/UT,17,39,26,18.0
+,National,26,34,24,16.0
+Performance of Girls (%),State/UT,9,42,27,22.0
+,National,27,31,25,17.0
+Performance of Boys (%),State/UT,26,36,24,14.0
+,National,26,36,23,15

@@ -1,0 +1,22 @@
+{
+  "Tamil": ["Kerala","Tamil Nadu"],
+  "Bodo": ["Assam"],
+  "Mizo": ["Mizoram"],
+  "Gujarati": ["Gujarat","Maharashtra","Daman-Diu and Dadra Nagar Haveli"],
+  "Malayalam": ["Kerala"],
+  "Hindi": ["Himachal Pradesh","Punjab","Chandigarh","Uttarakhand","Haryana","Delhi","Rajasthan","Uttar Pradesh","Bihar","Assam","West Bengal","Jharkhand","Odisha","Chhattisgarh","Madhya Pradesh","Gujarat","Maharashtra","Andaman & Nicobar Islands"],
+  "Garo": ["Assam","Meghalaya"],
+  "English": ["Jammu & Kashmir","Himachal Pradesh","Punjab","Chandigarh","Uttarakhand","Haryana","Delhi","Rajasthan","Uttar Pradesh","Bihar","Sikkim","Arunachal Pradesh","Nagaland","Manipur","Mizoram","Tripura","Meghalaya","Assam","West Bengal","Jharkhand","Odisha","Chhattisgarh","Madhya Pradesh","Gujarat","Maharashtra","Andhra Pradesh","Karnataka","Goa","Lakshadweep","Kerala","Tamil Nadu","Puducherry","Andaman & Nicobar Islands","Telangana","Ladakh","Daman-Diu and Dadra Nagar Haveli"],
+  "Punjabi": ["Punjab"],
+  "Telugu": ["Andhra Pradesh","Telangana"],
+  "Kannada": ["Maharashtra","Andhra Pradesh","Karnataka","Kerala"],
+  "Odia": ["Odisha","Andhra Pradesh"],
+  "Assamese": ["Assam","Meghalaya"],
+  "Urdu": ["Delhi","Uttar Pradesh","Bihar","West Bengal","Jharkhand","Odisha","Madhya Pradesh","Gujarat","Maharashtra","Andhra Pradesh","Karnataka","Tamil Nadu","Telangana"],
+  "Khasi": ["Meghalaya"],
+  "Bengali": ["Tripura","Meghalaya","Assam","West Bengal","Jharkhand","Maharashtra"],
+  "Konkani": ["Goa"],
+  "Marathi": ["Maharashtra","Gujarat","Madhya Pradesh","Karnataka","Goa","Daman-Diu and Dadra Nagar Haveli"],
+  "Manipuri": ["Manipur"],
+  "Nepali": ["West Bengal"]
+}
